@@ -1,3 +1,3 @@
 # baguette
 
-2hp panel for passive banana<->euro conversion
+2hp euro module for passive banana<->euro conversion
